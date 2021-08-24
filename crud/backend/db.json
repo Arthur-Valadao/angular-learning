@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Caneca azul",
+            "price": 2.50
+        },
+        {
+            "id": 2,
+            "name": "Caneca preta",
+            "price": 2.50
+        },
+        {
+            "id": 3,
+            "name": "Lapis",
+            "price": 1.50
+        }
+    ]
+}
